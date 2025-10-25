@@ -174,7 +174,7 @@ Smart trip planning application
 ```
 
 🗺️ Interactive map-based itinerary planning  
-📍 Smart location recommendations and route optimization  
+📍 Smart location recommendations 
 🎨 Fully responsive design for mobile and desktop
 
 ---
