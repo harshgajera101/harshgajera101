@@ -81,140 +81,18 @@ fun_fact: "Building solutions, one commit at a time!"
 
 </div>
 
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛️ SmartSanstha
-#### *Institutional Management System*
-
-[![SmartSanstha](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshgajera101/SmartSanstha)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-93%25-007ACC?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-5.6%25-F7DF1E?style=flat-square&logo=javascript)
-![CSS](https://img.shields.io/badge/CSS-1.2%25-1572B6?style=flat-square&logo=css3)
-
-```
-Complete institutional management solution
-```
-
-📊 Streamlined institutional operations and student management  
-🏫 Role-based access control for admin, teachers, and students  
-⚡ Real-time data sync and automated reporting system
-
----
-
-</td>
-<td width="50%" valign="top">
-
-### 🎪 EventSpace
-#### *Event Management Platform*
-
-[![EventSpace](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshgajera101/EventSpace)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-42.6%25-F7DF1E?style=flat-square&logo=javascript)
-![EJS](https://img.shields.io/badge/EJS-33.9%25-B4CA65?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-23.5%25-1572B6?style=flat-square&logo=css3)
-
-```
-Full-stack event booking and management system
-```
-
-🎫 Seamless event creation, booking, and ticketing  
-📅 Real-time availability tracking and updates  
-👥 Integrated user authentication and payment gateway
-
----
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌟 MindEase
-#### *AI-Powered Mental Health Support*
-
-[![MindEase](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshgajera101/MindEase)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-90%25-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-9.7%25-3776AB?style=flat-square&logo=python)
-
-```
-An intelligent chatbot for Depression & Anxiety support
-```
-
-🤖 AI-driven conversation for mental wellness support  
-💬 Anonymous and secure chat environment  
-🎯 Personalized mental health recommendations
-
----
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ TripPlanner
-#### *Your Travel Companion*
-
-[![TripPlanner](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshgajera101/TripPlanner)
-
-![HTML](https://img.shields.io/badge/HTML-44.8%25-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-29.7%25-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-25.5%25-F7DF1E?style=flat-square&logo=javascript)
-
-```
-Smart trip planning application
-```
-
-🗺️ Interactive map-based itinerary planning  
-📍 Smart location recommendations 
-🎨 Fully responsive design for mobile and desktop
-
----
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshgajera101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgajera101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgajera101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgajera101&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 
----
-
-## 🏆 Achievements & Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshgajera101&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
-- 💼 **Completed Internship** specializing in React.js & Tailwind CSS
-- 🎓 Developed **2 Full-Stack Academic Projects**
-- 🚀 Built **5+ Personal Projects** showcasing MERN stack expertise
-
----
 
 ## 🤝 Connect With Me
 
@@ -233,27 +111,7 @@ Smart trip planning application
   </a>
 </p>
 
----
 
-## 💡 Current Focus
-
-```javascript
-const harsh = {
-    currentlyLearning: ["Data Structures", "Algorithms", "System Design"],
-    languages: ["Java", "JavaScript", "TypeScript"],
-    askMeAbout: ["Web Dev", "MERN Stack", "Problem Solving", "Tech"],
-    technologies: {
-        frontEnd: ["React", "HTML5", "CSS3", "TailwindCSS", "EJS"],
-        backEnd: ["Node.js", "Express.js", "REST APIs"],
-        databases: ["SQL", "MongoDB", "Mongoose"],
-        tools: ["Git", "GitHub", "VS Code"]
-    },
-    currentProjects: ["DSA Practice", "Portfolio Website", "Next Big Idea"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
-```
-
----
 
 <div align="center">
 
